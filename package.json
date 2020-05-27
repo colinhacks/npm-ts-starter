@@ -1,6 +1,6 @@
 {
   "name": "npm-ts-starter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A project template for TypeScript npm packages",
   "main": "./lib/src/index.js",
   "types": "./lib/src/index.d.ts",
