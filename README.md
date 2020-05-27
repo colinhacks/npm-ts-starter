@@ -24,7 +24,7 @@
 
 2. In package.json: update "name", "description", "repository", "keywords", "tags", "hompage", and any other relevant fields.
 3. Implement your module! Start writing code in index.ts.
-4. Write tests! See '**tests**/sample.ts' for some basic examples. Run your tests with `yarn test`. This automatically generates a badge like this to display your test coverage: [![coverage](./coverage.svg)](./src/__tests__)
+4. Write tests! See '**tests**/sample.ts' for some basic examples. We use Jest as a test runner; check out the documenation at https://jestjs.io. Run your tests with `yarn test`. This automatically generates a badge like this to display your test coverage: [![coverage](./coverage.svg)](./src/__tests__)
 5. Write a README. An initial template is below. Find and replace all references to "pkgname" with your package's name and "username" with your GitHub username. Delete this "Meta-README" section before you deploy (everything above the red line).
 6. Install Node ([here](https://nodejs.org/en/)) if you haven't already. This automatically installs the `npm` command-line tool to your computer.
 7. Create an npm account through npmjs.com.
