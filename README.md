@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">npm-ts-pkg</h1>
+  <h2 align="center">npm-ts-starter</h1>
 </p>
 
 # Usage
@@ -7,7 +7,7 @@
 1. Clone this repo:
 
    ```
-     git clone git@github.com:vriad/npm-ts-pkg.git yourpkgname
+     git clone git@github.com:vriad/npm-ts-starter.git yourpkgname
      cd yourpkgname
    ```
 
@@ -27,7 +27,7 @@
 4. Write tests! See '**tests**/sample.ts' for some basic examples. Run your tests with `yarn test`. This automatically generates a badge like this to display your test coverage: [![coverage](./coverage.svg)](./src/__tests__)
 5. Write a README. An initial template is below. Find and replace all references to "pkgname" with your package's name and "username" with your GitHub username. Delete this "Meta-README" section before you deploy (everything above the red line).
 6. Install Node ([here](https://nodejs.org/en/)) if you haven't already. This automatically installs the `npm` command-line tool to your computer.
-7. Create an npm account through npmjs.org.
+7. Create an npm account through npmjs.com.
 8. Use the `npm login` command to sign into npm on your computer.
 9. Build your project with `yarn build`. This transpiles your TyeScript to JavaScript code and writes the output into `/lib`.
 10. Publish to npm with `npm publish`.
