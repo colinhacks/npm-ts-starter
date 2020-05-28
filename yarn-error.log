@@ -61,7 +61,7 @@ npm manifest:
     ],
     "scripts": {
       "clean": "rm -rf lib/*",
-      "build": "yarn run clean && tsc --p tsconfig.package.json",
+      "build": "yarn run clean && tsc --p tsconfig.json",
       "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
       "lint": "tslint -p tsconfig.json",
       "test": "jest --config jestconfig.json --coverage && yarn run badges",

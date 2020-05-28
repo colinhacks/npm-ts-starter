@@ -32,7 +32,7 @@
   },
   "include": [
     "src",
-    "tsconfig.package.json"
+    "tsconfig.json"
   ],
   "exclude": [
     "node_modules",
